@@ -3,6 +3,7 @@
   MASS DM DISCORD BOT
   <br>
 </h1>
+
 ## Installation
 
 STEP 1:
@@ -31,3 +32,5 @@ You have to create a `config.json` file in order to run the bot (you can use the
 }
 all you need to do is change them ;-;
 ```
+
+
