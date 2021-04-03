@@ -13,6 +13,11 @@ STEP 2:
 ```
 npm install
 ```
+STEP 3:
+```
+node index.js
+```
+
 ;d 
 
 ## Setting Up
